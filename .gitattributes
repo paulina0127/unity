@@ -1,0 +1,4 @@
+D:/uni/rok4/unity/2D[[:space:]]Game/Library/PackageCache/com.unity.burst@1.8.9/* filter=lfs diff=lfs merge=lfs -text
+D:/uni/rok4/unity/2D[[:space:]]Game/Library/PackageCache/com.unity.burst@1.8.9/* filter=lfs diff=lfs merge=lfs -text
+*.Runtime filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
